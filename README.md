@@ -201,7 +201,7 @@ todo-frontend/
    - Haz clic en "Save"
 
 4. **Acceder a tu aplicación:**
-   - Tu aplicación estará disponible en: \`https://crisdj23.github.io/todo-frontend`
+   - Tu aplicación estará disponible en: \https://crisdj23.github.io/todo-frontend
 
 ##  Uso de la aplicación
 
